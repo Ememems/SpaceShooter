@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1553809727 source:c:\moje\github repository\spaceshooter\spaceshooter\alien.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+	"alien.h"
+
+1553809725 c:\moje\github repository\spaceshooter\spaceshooter\alien.h
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+
+1554104520 source:c:\moje\github repository\spaceshooter\spaceshooter\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+	<cstdio>
+	"ship.h"
+	"weapon.h"
+	"alien.h"
+
+1554067955 c:\moje\github repository\spaceshooter\spaceshooter\ship.h
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+
+1553807695 c:\moje\github repository\spaceshooter\spaceshooter\weapon.h
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+
+1554067944 source:c:\moje\github repository\spaceshooter\spaceshooter\ship.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+	"ship.h"
+
+1554104580 source:c:\moje\github repository\spaceshooter\spaceshooter\weapon.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+	"weapon.h"
+
